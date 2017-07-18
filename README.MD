@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kirussell/KaptDaggerDatabinding.svg?branch=master)](https://travis-ci.org/kirussell/KaptDaggerDatabinding)
+
 :app
     :mylibrary
         :baseLibrary
